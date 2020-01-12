@@ -43,6 +43,6 @@ How to zoom in/out 3D scene
 Video
 ----------------
   
-<img width="700" src="https://user-images.githubusercontent.com/44941601/72222077-35b22f00-35a4-11ea-8dc1-b5a076d78fca.gif"> 
+<img width="700" src="https://user-images.githubusercontent.com/44941601/72222554-5af56c00-35a9-11ea-9122-9d82e36f8bea.gif"> 
 <hr/>  
 VS 2017, OpenGL
