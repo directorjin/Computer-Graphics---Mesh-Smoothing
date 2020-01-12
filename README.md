@@ -4,13 +4,21 @@ Computer Graphics - Mesh Smoothing
 Description
 ===========
 
-This code is a C-language implementation of 3D-Scene-Viewer.
+This code is a C-language implementation of Mesh-Smoothing
 ----------------------------------------------
-This Project is that Loads 3D polygonal model and renders it as point clouds, wireframe and triangles
+This Project Implement mesh smoothing algorithm
 ---------------------------------------------
-This Project is that allows a user to view 3D scene from an arbitrary position and orientation
+<img width="700" src="https://user-images.githubusercontent.com/44941601/72222522-e5899b80-35a8-11ea-9c5b-4fdd293497cf.png"> 
+
+Repeating smoothing operation 
 -----------------------------------------
-<hr/>   
+<img width="700" src="https://user-images.githubusercontent.com/44941601/72222521-e0c4e780-35a8-11ea-8e71-191bd78f6138.png"> 
+
+<hr/>
+
+How to smoothing operation
+----------------------
+1. Press a key ‘s’ or 'S'
 
 Three rendering options
 -----------------------
